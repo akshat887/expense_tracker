@@ -14,8 +14,5 @@
     "mongoose": "^6.12.7",
     "nodemon": "^3.1.0"
   },
-  "engines": {
-    "node": "20.x"
-  },
   "description": ""
 }
